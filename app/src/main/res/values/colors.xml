@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#364DC2</color>
+    <color name="colorPrimaryDark">#062666</color>
+    <color name="colorAccent">#F44336</color>"
+    <color name="branco">#FFF</color>
+    <color name="azulFacebook">#4267b2</color>
+    <color name="cinza">#948C8C</color>
+    <color name="cinzaEscuro">#525151</color>
+    <color name="cinzaChumbo">#222121</color>
+
+</resources>
